@@ -2,7 +2,7 @@
 Midterm for Programming Languages lecture.
 
 Basically, it is a programming language with Turkish keywords. There are 3 main components: Lexer, parser and semantic analyzer.
-It resembles Pascal as I was inspired by it. Parser works in top-down manner.
+It resembles Pascal as I was inspired by it. Parser works in top-down manner. Semantic analyzer will also "execute" the code to demonstrate the project.
 
 Sample Code:
 ```
